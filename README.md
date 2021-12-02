@@ -1,4 +1,3 @@
-Base serverless tempelate from codingly.io
 
 
 
